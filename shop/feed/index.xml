@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shop - Seedling Theater Company</title>
+	<atom:link href="http://localhost/Seedling_Theater_Company/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/Seedling_Theater_Company/shop/</link>
+	<description></description>
+	<lastBuildDate>Wed, 19 Apr 2023 04:48:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Large Theater Dad Shirt</title>
+		<link>http://localhost/Seedling_Theater_Company/product/large-theater-dad-shirt/</link>
+					<comments>http://localhost/Seedling_Theater_Company/product/large-theater-dad-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[chels8012]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2023 04:42:56 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/Seedling_Theater_Company/?post_type=product#038;p=215</guid>
+
+					<description><![CDATA[<p>A black, large theater t-shirt.</p>
+<p>The post <a rel="nofollow" href="http://localhost/Seedling_Theater_Company/product/large-theater-dad-shirt/">Large Theater Dad Shirt</a> appeared first on <a rel="nofollow" href="http://localhost/Seedling_Theater_Company">Seedling Theater Company</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Large T-shirt, fabric from a cotton blend.</p>
+<p>The post <a rel="nofollow" href="http://localhost/Seedling_Theater_Company/product/large-theater-dad-shirt/">Large Theater Dad Shirt</a> appeared first on <a rel="nofollow" href="http://localhost/Seedling_Theater_Company">Seedling Theater Company</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/Seedling_Theater_Company/product/large-theater-dad-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Medium Theater Mom Shirt</title>
+		<link>http://localhost/Seedling_Theater_Company/product/medium-theater-mom-shirt/</link>
+					<comments>http://localhost/Seedling_Theater_Company/product/medium-theater-mom-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[chels8012]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2023 04:35:12 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/Seedling_Theater_Company/?post_type=product#038;p=211</guid>
+
+					<description><![CDATA[<p>A black, medium theater t-shirt.</p>
+<p>The post <a rel="nofollow" href="http://localhost/Seedling_Theater_Company/product/medium-theater-mom-shirt/">Medium Theater Mom Shirt</a> appeared first on <a rel="nofollow" href="http://localhost/Seedling_Theater_Company">Seedling Theater Company</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Medium T-shirt, fabric from a cotton blend.</p>
+<p>The post <a rel="nofollow" href="http://localhost/Seedling_Theater_Company/product/medium-theater-mom-shirt/">Medium Theater Mom Shirt</a> appeared first on <a rel="nofollow" href="http://localhost/Seedling_Theater_Company">Seedling Theater Company</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/Seedling_Theater_Company/product/medium-theater-mom-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Small Theater Kids Shirt</title>
+		<link>http://localhost/Seedling_Theater_Company/product/hoodie-with-logo/</link>
+					<comments>http://localhost/Seedling_Theater_Company/product/hoodie-with-logo/#respond</comments>
+		
+		<dc:creator><![CDATA[chels8012]]></dc:creator>
+		<pubDate>Sun, 09 Apr 2023 03:56:47 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/Seedling_Theater_Company/product/hoodie-with-logo/</guid>
+
+					<description><![CDATA[<p>A black, small kids theater t-shirt.</p>
+<p>The post <a rel="nofollow" href="http://localhost/Seedling_Theater_Company/product/hoodie-with-logo/">Small Theater Kids Shirt</a> appeared first on <a rel="nofollow" href="http://localhost/Seedling_Theater_Company">Seedling Theater Company</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Kids Small T-shirt, fabric made from a cotton blend.</p>
+<p>The post <a rel="nofollow" href="http://localhost/Seedling_Theater_Company/product/hoodie-with-logo/">Small Theater Kids Shirt</a> appeared first on <a rel="nofollow" href="http://localhost/Seedling_Theater_Company">Seedling Theater Company</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/Seedling_Theater_Company/product/hoodie-with-logo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
